@@ -1,0 +1,31 @@
+_repo: Boswell-the-Biographer_52246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mallory, George
+    aliases:
+    - Leigh-Mallory, George Herbert
+    - Mallory, George Herbert Leigh
+    birthdate: 1886
+    deathdate: 1924
+    gutenberg_agent_id: '40012'
+    url: http://www.gutenberg.org/2009/agents/40012
+    wikipedia: http://en.wikipedia.org/wiki/George_Mallory
+description: ''
+gutenberg_issued: '2016-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52246'
+  lccn: '13015657'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Biographers -- Great Britain -- Biography'
+- !lcsh 'Boswell, James, 1740-1795'
+- !lcsh 'Authors, Scottish -- 18th century -- Biography'
+- GITenberg
+title: Boswell the Biographer
+url: http://www.gutenberg.org/ebooks/52246
